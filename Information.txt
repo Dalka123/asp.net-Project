@@ -1,0 +1,21 @@
+----------------------- Asp Project Overview---------------
+Projectkaan wuxu ku saabsan yahay ama xal uu u yahay
+Companyada ICT Solutions ah oo wuxu u qabanaya Projectska
+dadka soo codsado inay diiwan galin karaan , Project walba
+ay sameyan inay Information buuxa ay ka diiwan galin karaan
+sida projectka magacisa , Category , lacagaha lagu qabanayo 
+IWM. Sido kale Loans ayaa lagu diwan galin karaa oo Qof walba 
+project soo codsaday deemaha lagu leyahay iyo informationkisa 
+aya ka heli karta.
+----------------- Group Members ------------ 
+1. Abdirauuf Mohamed Shukri -- CA171 C117178 (Group Leader)
+2. Dayib Mohamed Omar -- CA171 C117307
+3. Zakaria Abdukadir Samow -- CA171 C117214
+4. Abdirahman Ali Aadan -- CA171 C117246
+
+
+==================================================================================================================
+                          Authitication Database Name (HanTechICT)
+               
+                        User   : HanTech
+                       Passowrd: HanTech_123
